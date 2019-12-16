@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/themanfromhollywood"
-  to = "https://themanfromhollywood.netlify.com"
+  from = "/themanfromhollywood/*"
+  to = "https://themanfromhollywood.netlify.com/:splat"
   status = 200
