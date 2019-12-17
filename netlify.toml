@@ -7,3 +7,8 @@
   from = "/whatsgoingonwithcss/*"
   to = "https://whatsgoingonwithcss.netlify.com/:splat"
   status = 200
+  
+[[redirects]]
+  from = "/css-true-titles/*"
+  to = "https://css-true-titles.netlify.com/:splat"
+  status = 200
