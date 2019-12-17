@@ -22,3 +22,8 @@
   from = "/cssoff/*"
   to = "https://cssoff.netlify.com/:splat"
   status = 200
+  
+[[redirects]]
+  from = "/css-shaky-animation/*"
+  to = "https://css-squigglevision.netlify.com/:splat"
+  status = 200
