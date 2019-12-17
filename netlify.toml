@@ -17,3 +17,8 @@
   from = "/overawe/*"
   to = "https://overawe.netlify.com/:splat"
   status = 200
+  
+[[redirects]]
+  from = "/cssoff/*"
+  to = "https://cssoff.netlify.com/:splat"
+  status = 200
