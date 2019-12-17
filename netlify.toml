@@ -32,3 +32,8 @@
   from = "/slenderman/*"
   to = "https://slenderman.netlify.com/:splat"
   status = 200
+  
+[[redirects]]
+  from = "/css-animated-sprites/*"
+  to = "https://css-animated-sprites.netlify.com/:splat"
+  status = 200
