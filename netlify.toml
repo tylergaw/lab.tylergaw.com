@@ -27,3 +27,8 @@
   from = "/css-shaky-animation/*"
   to = "https://css-squigglevision.netlify.com/:splat"
   status = 200
+  
+[[redirects]]
+  from = "/slenderman/*"
+  to = "https://slenderman.netlify.com/:splat"
+  status = 200
