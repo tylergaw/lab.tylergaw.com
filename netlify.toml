@@ -52,3 +52,8 @@
   from = "/css-write-on/*"
   to = "https://css-write-on.netlify.com/:splat"
   status = 200
+  
+[[redirects]]
+  from = "/media-seek-from-url/*"
+  to = "https://media-seek-from-url.netlify.com/:splat"
+  status = 200
