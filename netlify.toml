@@ -37,3 +37,8 @@
   from = "/css-animated-sprites/*"
   to = "https://css-animated-sprites.netlify.com/:splat"
   status = 200
+  
+[[redirects]]
+  from = "/css-gradient-transition-sorta/*"
+  to = "https://css-gradient-transition-sorta.netlify.com/:splat"
+  status = 200
