@@ -47,3 +47,8 @@
   from = "/css-slideshows/*"
   to = "https://css-slideshows.netlify.com/:splat"
   status = 200
+  
+[[redirects]]
+  from = "/css-write-on/*"
+  to = "https://css-write-on.netlify.com/:splat"
+  status = 200
