@@ -42,3 +42,8 @@
   from = "/css-gradient-transition-sorta/*"
   to = "https://css-gradient-transition-sorta.netlify.com/:splat"
   status = 200
+  
+[[redirects]]
+  from = "/css-slideshows/*"
+  to = "https://css-slideshows.netlify.com/:splat"
+  status = 200
