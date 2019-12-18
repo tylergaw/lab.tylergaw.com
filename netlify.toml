@@ -57,3 +57,8 @@
   from = "/media-seek-from-url/*"
   to = "https://media-seek-from-url.netlify.com/:splat"
   status = 200
+
+[[redirects]]
+  from = "/html5forms/*"
+  to = "https://html5forms.netlify.com/:splat"
+  status = 200
